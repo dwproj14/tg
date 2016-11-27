@@ -1,0 +1,4 @@
+{
+  "normalURL" : "http://103.11.35.51/train/searchTrain",
+  "ticketURL" : "http://103.11.35.51/ticket/getPrice"
+  }
